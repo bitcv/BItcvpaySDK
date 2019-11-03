@@ -3,6 +3,17 @@
    version = "1.0">
    <ContextStates>
       <ContextState
+         contextName = "__29-[ViewController getSdkSign:]_block_invoke_2:ViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "d88d7c905158d9ad2d2f3ef8ef30c547">
+            </PersistentString>
+            <PersistentString
+               value = "data">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
          contextName = "__32-[ViewController toPayBtnClick:]_block_invoke:ViewController.m">
          <PersistentStrings>
             <PersistentString
